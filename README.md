@@ -3,7 +3,7 @@
 
 ## 🎯 Objetivo do Projeto
 
-Desenvolver uma planilha inteligente em Excel para **planejamento, simulação e acompanhamento de investimentos mensais em Fundos de Investimento Imobiliário (FIIs)**. O objetivo é proporcionar ao usuário autonomia para projetar o crescimento do patrimônio, calcular dividendos futuros e distribuir aportes de acordo com o perfil de investidor, promovendo organização e educação financeira.
+Desenvolver uma planilha inteligente em Excel para **planejamento, simulação e acompanhamento de investimentos mensais em Fundos de Investimento Imobiliário (FIIs)**. O objetivo é proporcionar ao usuário autonomia para projetar o crescimento do patrimônio, calcular dividendos futuros e distribuir aportes de acordo com o perfil de investidor, promovendo organização e educação financeira. O projeto foi uma proposta do Desafio Dio - Santander - Excel com Inteligência Artificial.
 
 ---
 
