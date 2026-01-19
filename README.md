@@ -40,4 +40,7 @@ Esta planilha agrega valor ao permitir que qualquer pessoa organize e planeje se
 
 ## 👤 Autor
 
-Josiane (Josi Oliveira)
+**Josiane de Oliveira da Silva**  
+[LinkedIn – Josiane de Oliveira da Silva](https://www.linkedin.com/in/josiane-de-oliveira-da-silva/)  
+[GitHub – josioliveira01 (Josiane Oliveira)](https://github.com/josioliveira01)
+
