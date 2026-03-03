@@ -5,6 +5,10 @@
 
 Desenvolver uma planilha inteligente em Excel para **planejamento, simulação e acompanhamento de investimentos mensais em Fundos de Investimento Imobiliário (FIIs)**. O objetivo é proporcionar ao usuário autonomia para projetar o crescimento do patrimônio, calcular dividendos futuros e distribuir aportes de acordo com o perfil de investidor, promovendo organização e educação financeira. O projeto foi uma proposta do Desafio Dio - Santander - Excel com Inteligência Artificial.
 
+## Documentação
+
+[![Relatório em PDF](https://img.shields.io/badge/Download-Relat%C3%B3rio_PDF-red?style=for-the-badge&logo=adobe-acrobat-reader)]([https://github.com/josioliveira01/Instacart_Market_Basket_analise_dados/blob/main/An%C3%A1lise_Dados_Instacart.pdf](https://github.com/josioliveira01/controle-investimentos-fii/blob/1d2e1c8ab0a2f45b9fec772a6a582dad94ad8e8f/Documenta%C3%A7%C3%A3o_simulador_investimentos.pdf))
+
 ---
 
 ## 🛠️ Ferramentas Utilizadas
