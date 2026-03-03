@@ -7,8 +7,7 @@ Desenvolver uma planilha inteligente em Excel para **planejamento, simulação e
 
 ## Documentação
 
-[![Relatório em PDF](https://img.shields.io/badge/Download-Relat%C3%B3rio_PDF-red?style=for-the-badge&logo=adobe-acrobat-reader)]((https://github.com/josioliveira01/controle-investimentos-fii/blob/1d2e1c8ab0a2f45b9fec772a6a582dad94ad8e8f/Documenta%C3%A7%C3%A3o_simulador_investimentos.pdf))
-
+[![Relatório em PDF](https://img.shields.io/badge/Download-Relat%C3%B3rio_PDF-red?style=for-the-badge&logo=adobe-acrobat-reader)](https://github.com/josioliveira01/controle-investimentos-fii/blob/main/Documentação_simulador_investimentos.pdf)
 ---
 
 ## 🛠️ Ferramentas Utilizadas
